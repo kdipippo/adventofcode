@@ -1,4 +1,4 @@
-# ProgrammingChallenges
+# CodePuzzles
 A collection of my programming solutions for challenges around the web.
 
 ### AdventOfCode
@@ -9,6 +9,3 @@ Daily programming challenges throughout the month of December done in Python 3.7
 - [ ] Readme for 2016
 - [ ] Readme for 2015
 - [ ] Porting all the existing Python code into 3.7
-
-### DailyProgrammer
-Programming challenges from https://www.reddit.com/r/dailyprogrammer/
