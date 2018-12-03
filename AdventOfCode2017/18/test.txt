@@ -1,0 +1,20 @@
+if reg1Index < 10:
+  print " #" + str(reg1Index),
+else:
+  print "#" + str(reg1Index),
+print " queue1=" + str(len(reg1sendQueue)),
+print "\t",
+if reg2Index < 10:
+  print " #" + str(reg2Index),
+else:
+  print "#" + str(reg2Index),
+print " queue2=" + str(len(reg1sendQueue))
+print "==1: ",
+print instructions[reg1Index],
+print "  ",
+print registers1
+print "==2: ",
+print instructions[reg2Index],
+print "  ",
+print registers2
+print
