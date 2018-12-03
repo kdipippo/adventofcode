@@ -1,5 +1,3 @@
-import itertools
-import functools
 import time
 
 def readfileintowords(filename):
