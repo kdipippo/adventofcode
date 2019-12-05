@@ -5,7 +5,6 @@ def readfileintowords(filename):
   return content
 
 def processOpcodes(inputs):
-  
   i = 0
   while True:
     if inputs[i] == 1:
