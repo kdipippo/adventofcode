@@ -1,5 +1,5 @@
 # adventofcode
-Historical collection of all my programming solutions to [Advent of Code](https://adventofcode.com/).
+Collection of all my programming solutions to [Advent of Code](https://adventofcode.com/).
 
 ⭐️ solved, solution stored here | 💫 solved, solution not yet here | 🩶 only 1 star done
 
