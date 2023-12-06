@@ -1,7 +1,7 @@
 seeds: 79 14 55 13
 
 seed-to-soil map:
-50 98 2             seeds 50 and 51 = soils 98 and 99
+50 98 2
 52 50 48
 
 soil-to-fertilizer map:
@@ -31,3 +31,13 @@ temperature-to-humidity map:
 humidity-to-location map:
 60 56 37
 56 93 4
+
+
+
+minimum result from location:
+60 - 60 + 37
+56 - 56 + 4
+
+[1 ... 55] [93 ... 96] []
+[1 ... 55] [56 ... 59][60 ... ]
+
